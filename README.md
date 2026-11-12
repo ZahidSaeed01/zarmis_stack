@@ -6,6 +6,7 @@ Falling-block puzzle: pieces drop, rows clear, chase your best. Expo + React Nat
 |--|--|
 | Package | `com.zarmis.stack` |
 | GitHub | `ZahidSaeed01/zarmis_stack` |
+| Play Console | Zarmis Stack (`4973719416476253428`) |
 | Identity | `brand.config.js` |
 | UI | Arena shell — **no bottom tabs** (floating glass chips) |
 

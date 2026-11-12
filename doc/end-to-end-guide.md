@@ -8,6 +8,7 @@ Falling-block / line-clear puzzle: product rules, Play Console, AdMob, GitHub (`
 | **Local folder** | `applications/zarmis_stack/` |
 | **GitHub repo** | `https://github.com/ZahidSaeed01/zarmis_stack` |
 | **Android package** | `com.zarmis.stack` *(immutable once on Play)* |
+| **Play Console app** | `4973719416476253428` (Zarmis Stack) |
 | **Play account** | `zarmisgroup@gmail.com` — see [`docs/PLAY_CONSOLE_ACCESS.md`](../../docs/PLAY_CONSOLE_ACCESS.md) |
 | **CI** | [`ANDROID_AAB.md`](./ANDROID_AAB.md) |
 
@@ -26,7 +27,7 @@ Falling-block / line-clear puzzle: product rules, Play Console, AdMob, GitHub (`
 
 ### Phase 1 — Accounts & legal
 
-- [ ] Play Console → Create app (Game, Free) **Zarmis Stack**
+- [x] Play Console → Create app (Game, Free) **Zarmis Stack** (`4973719416476253428`)
 - [ ] Grant Play upload SA access if needed
 - [ ] AdMob → Android app for `com.zarmis.stack` (later)
 - [ ] Privacy policy page live
