@@ -24,6 +24,7 @@ module.exports = ({ config }) => {
   /** @type {Array<string | [string, Record<string, unknown>]>} */
   const plugins = [
     'expo-font',
+    './plugins/withOptionalPortraitFeature.js',
     [
       'expo-build-properties',
       {
