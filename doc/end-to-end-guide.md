@@ -30,9 +30,10 @@ Falling-block / line-clear puzzle: product rules, Play Console, AdMob, GitHub (`
 - [x] Play Console → Create app (Game, Free) **Zarmis Stack** (`4973719416476253428`)
 - [ ] Grant Play upload SA access if needed
 - [ ] AdMob → Android app for `com.zarmis.stack` (later)
-- [ ] Privacy policy page live
+- [x] Privacy policy content added to `zarmis` site (`zarmis-stack`) — deploy site if not live yet
 - [x] Upload keystore under `credentials/android/`
-- [ ] GitHub repo + Actions secret `GOOGLE_PLAY_SERVICE_ACCOUNT_JSON`
+- [x] GitHub repo `ZahidSaeed01/zarmis_stack` + code on `master`
+- [ ] Actions secret `GOOGLE_PLAY_SERVICE_ACCOUNT_JSON`
 
 ### Phase 2 — Scaffold
 
@@ -42,9 +43,13 @@ Falling-block / line-clear puzzle: product rules, Play Console, AdMob, GitHub (`
 
 ### Phase 3 — Store
 
-- [ ] Listing text + feature graphic + screenshots in local `store/`
-- [ ] Content rating / Data safety / Ads declarations
+- [x] Listing text drafted in Play (name / short / full)
+- [x] Feature graphic + 512 icon + placeholder phones in local `store/`
+- [ ] Upload graphics in Play listing editor
+- [ ] Content rating / Data safety / Ads / category / contact
 - [ ] Internal testing AAB
+
+See [`PLAY_CONSOLE_SETUP.md`](./PLAY_CONSOLE_SETUP.md) for the live checklist.
 
 ---
 

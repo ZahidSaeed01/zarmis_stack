@@ -18,6 +18,7 @@ Falling-block puzzle: pieces drop, rows clear, chase your best. Expo + React Nat
 - [End-to-end guide](./doc/end-to-end-guide.md)
 - [Android AAB → Play](./doc/ANDROID_AAB.md)
 - [Store listing](./doc/store-listing.md)
+- [Play Console setup](./doc/PLAY_CONSOLE_SETUP.md)
 - [Code structure](./doc/code-structure.md)
 
 ## Run locally
